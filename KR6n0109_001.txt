@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:26.420814
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 大乘百法明門論開宗義決
 #+PROPERTY: CBETA_ID T85n2812
 #+PROPERTY: ID KR6n0109
